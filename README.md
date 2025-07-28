@@ -41,4 +41,4 @@ Meu objetivo é simples: **criar jogos que deixem os olhos brilhando de emoção
 
 ---
 
-> “Jogos não são só código ou gráficos. Eles são emoções. E meu objetivo é programar experiências que toquem pessoas de verdade.”
+> “Jogos não são só código e gráficos. São emoções. E meu objetivo é desenvolver experiências que toquem pessoas de verdade.”
